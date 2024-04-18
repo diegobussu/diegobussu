@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Diego BUSSU 😄 
 
-<!--
-**diegobussu/diegobussu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am a full stack developer (23 yo).
+> Really passionate about PHP programming langage and Symfony framework, artificial intelligence and cryptocurrency.
+> I am also in constant search of challenges which require to find new solutions to solve problems faced by people in their everyday life.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web back-end projects, some in PHP (Symfony5&6), others in React Native with NodeJS. 
+- 🌱 I’m currently learning Angular.
+- 📫 How to reach me : jokonito06@gmail.com
+- ⚡ Fun fact : The whole universe is written in python
+
+
+#### [Portfolio](https://diegobussu.github.io/)
+
+
+Outside of [GitHub](https://github.com/diegobussu/), You can find me at
+
+Discord :  don_tito_sama
