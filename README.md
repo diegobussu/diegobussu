@@ -12,8 +12,3 @@
 
 
 #### [Portfolio](https://diegobussu.github.io/)
-
-
-Outside of [GitHub](https://github.com/diegobussu/), You can find me at
-
-Discord :  don_tito_sama
